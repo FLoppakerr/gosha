@@ -26,8 +26,8 @@
   <p>ฐานข้อมูลนี้จะถูกใช้งานในโปรเจ็กต์ของเราเพื่อเก็บข้อมูลลูกค้า และจะทำให้การจัดการข้อมูลรองรับการใช้งานภาษาไทยได้อย่างถูกต้อง</p>
 
   <div style="text-align: center;">
-    <!-- ใช้ลิงก์รูปภาพที่ถูกต้องแทนลิงก์ที่ผิด -->
-    <img src="[https://example.com/path/to/your/image.jpg](https://x.com/TheDailyFloppa/status/1516795902526169093/photo/1)" alt="Example Image" width="300" height="300">
+    <!-- ลิงก์รูปภาพที่ใช้งานได้ -->
+    <img src="https://x.com/TheDailyFloppa/status/1516795902526169093/photo/1" alt="Example Image" width="300" height="300">
   </div>
 </body>
 </html>
