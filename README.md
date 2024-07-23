@@ -27,7 +27,7 @@
 
   <div style="text-align: center;">
     <!-- ลิงก์รูปภาพที่ใช้งานได้ -->
-    <img src="https://x.com/TheDailyFloppa/status/1516795902526169093/photo/1" alt="Example Image" width="300" height="300">
+    <img src="https://www.pinterest.com/pin/385128205643909698/" alt="Example Image" width="300" height="300">
   </div>
 </body>
 </html>
