@@ -16,4 +16,9 @@
 
 ฐานข้อมูลนี้จะถูกใช้งานในโปรเจ็กต์ของเราเพื่อเก็บข้อมูลลูกค้า และจะทำให้การจัดการข้อมูลรองรับการใช้งานภาษาไทยได้อย่างถูกต้อง
 
+`บางอันยังทำไม่เสร็จ`
+
+<div style="text-align: center;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIzFDTlODbyM&psig=AOvVaw1NxCk3Z5afU5sTQ2SJHB1D&ust=1721840961610000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC0o8jTvYcDFQAAAAAdAAAAABAp" alt="Pumba" width="300" height="300">
+</div>
 
