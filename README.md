@@ -27,7 +27,7 @@
 
   <div style="text-align: center;">
     <!-- ใช้ลิงก์ที่ถูกต้องในการแสดงรูปภาพ -->
-    <img src="https://preview.redd.it/pfo8dz19fpn61.jpg?width=1080&crop=smart&auto=webp&s=e3d85c7ed1d1499ef44c12c97a2b216e34ef370f" alt="Example Image" width="300" height="300">
+    <img src="https://preview.redd.it/pfo8dz19fpn61.jpg?width=1080&crop=smart&auto=webp&s=e3d85c7ed1d1499ef44c12c97a2b216e34ef370f">
   </div>
 </body>
 </html>
