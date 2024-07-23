@@ -6,7 +6,7 @@
 ฉันได้ตั้งชื่อฐานข้อมูลใน SQL ชื่อว่า customers และได้ตั้งค่า Collation เป็น utf8_general_ci ดังนี้:
 
 1. **ชื่อฐานข้อมูล:** customers
-2. **Collation:** utf8_general_ci
+2. **Collation:** 'utf8_general_ci'
 
 ขั้นตอนการตั้งค่าฐานข้อมูล:
 1. เปิดโปรแกรมจัดการฐานข้อมูลที่คุณใช้งาน (เช่น phpMyAdmin, MySQL Workbench, หรือโปรแกรมอื่น ๆ)
