@@ -1,11 +1,11 @@
-# การตั้งค่าฐานข้อมูล SQL
+# การตั้งค่าฐานข้อมูล SQL ✅
 
 ![Pumba](https://preview.redd.it/nt63o3o9lxl71.jpg?auto=webp&s=14fa6f7b327b315eae5f031429c7f366bb36610b)
 
 ฉันได้ตั้งชื่อฐานข้อมูลใน SQL ชื่อว่า **customers** และได้ตั้งค่า Collation เป็น **utf8_general_ci** ดังนี้:
 
-- **ชื่อฐานข้อมูล:** customers
-- **Collation:** utf8_general_ci
+1. **ชื่อฐานข้อมูล:** customers
+2. **Collation:** utf8_general_ci
 
 ## ขั้นตอนการตั้งค่าฐานข้อมูล:
 
@@ -15,5 +15,7 @@
 4. บันทึกการตั้งค่าและสร้างฐานข้อมูล
 
 ฐานข้อมูลนี้จะถูกใช้งานในโปรเจ็กต์ของเราเพื่อเก็บข้อมูลลูกค้า และจะทำให้การจัดการข้อมูลรองรับการใช้งานภาษาไทยได้อย่างถูกต้อง
+
+**บางอันยังทำไม่เสร็จ**
 
 ![Example Image](https://preview.redd.it/pfo8dz19fpn61.jpg?width=1080&crop=smart&auto=webp&s=e3d85c7ed1d1499ef44c12c97a2b216e34ef370f)
