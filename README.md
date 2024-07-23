@@ -26,8 +26,7 @@
   <p>ฐานข้อมูลนี้จะถูกใช้งานในโปรเจ็กต์ของเราเพื่อเก็บข้อมูลลูกค้า และจะทำให้การจัดการข้อมูลรองรับการใช้งานภาษาไทยได้อย่างถูกต้อง</p>
 
   <div style="text-align: center;">
-    <!-- ลิงก์รูปภาพที่ใช้งานได้ -->
-    <img src="[https://www.pinterest.com/pin/385128205643909698/](https://preview.redd.it/pfo8dz19fpn61.jpg?width=1080&crop=smart&auto=webp&s=e3d85c7ed1d1499ef44c12c97a2b216e34ef370f)"
+   <img src="[https://www.pinterest.com/pin/385128205643909698/](https://preview.redd.it/pfo8dz19fpn61.jpg width=1080&crop=smart&auto=webp&s=e3d85c7ed1d1499ef44c12c97a2b216e34ef370f)"
   </div>
 </body>
 </html>
